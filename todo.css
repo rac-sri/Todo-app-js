@@ -1,0 +1,19 @@
+h1{
+ font-weight: bold;
+ font-size:40px;	
+ text-align: center;
+}
+.content{	
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content:center;	
+	background-color: grey;
+	}
+.content.todos{
+	background-color: grey;
+}
+.row{
+	background-color:grey;
+}
+
